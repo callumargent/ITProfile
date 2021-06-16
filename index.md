@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Callum Argent
+## S3912773@student.rmit.edu.au
 
 You can use the [editor on GitHub](https://github.com/callumargent/ITProfile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
