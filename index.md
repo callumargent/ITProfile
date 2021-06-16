@@ -1,9 +1,15 @@
 # Callum Argent
+<img src="https://i.ibb.co/5njtNtn/callumargent.jpg"
+     alt="callumargent"
+     style="float: left; margin-right: 10px;" />
+
 [https://i.ibb.co/5njtNtn/callumargent.jpg[alt=callum]]
 
 S3912773
 
 S3912773@student.rmit.edu.au
+
+I'm currently in my first year of tertiary study at RMIT. I enjoy rock climbing and story-driven computer games.
 
 You can use the [editor on GitHub](https://github.com/callumargent/ITProfile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
