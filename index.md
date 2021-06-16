@@ -20,6 +20,8 @@ I have always has a fascination with new technology for as long as I can remembe
 ### Study
 I chose to study online at RMIT because it allowed me the most flexibility with work and other parts of life in general, providing me with a good balance. I also personally find studying online a lot more interactive and engaging than sitting in a classroom, allowing me to better focus on the content and absorb more of the information. It also allows me to study at my own pace and take the extra time I need to work through the course if other things come up.
 
+### Expectations
+In my time at RMIT I hope to learn about the future of IT in terms of where we are headed, and what new technologies will come up and hopefully benefit us as a society. I am looking forward to developing my skills and opening up new career gateways, which in turn would lead to further connections and experience in the field. With technology changing and improving so rapidly, I feel as though I may be missing out on important developments, and so I hope that this course will inspire me to keep on top of this.
 
 
 You can use the [editor on GitHub](https://github.com/callumargent/ITProfile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
