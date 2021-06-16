@@ -1,7 +1,7 @@
 # Callum Argent
 <img src="https://i.ibb.co/5njtNtn/callumargent.jpg"
      alt="callumargent"
-     style="float: left; margin-right: 10px; width: 5%" />
+     style="float: left; margin-right: 10px; width: 100px" />
 
 [https://i.ibb.co/5njtNtn/callumargent.jpg[alt=callum]]
 
