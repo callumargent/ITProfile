@@ -43,12 +43,15 @@ And here are my results from a learning style test from <a href="http://www.educ
 <img src="https://i.ibb.co/3Sg4DQc/learning-style.png"
      alt="Learning Style Test"
      style="float: left; margin-right: 10px; width: 100%; border-radius: 5%"/> <br>
+     
+This test shows my ability to learn things in a multitude of ways, which would additionaly helpo me when explaining things to others in a team. It shows me that I can gain a decent and broad understanding on topics regardless of the nature of the teaching. This would help me with problem solving and building a rapport within my team.
+
 Finally, the results of a psycometric test from <a href="https://www.psychometricinstitute.com.au/free_psychometric_test.html">Institute of Psychometric Coaching</a>:<br>
 <img src="https://i.ibb.co/GRNZQbY/psychometric-test.png"
      alt="Psychometric Test"
      style="float: left; margin-right: 10px; width: 100%; border-radius: 5%"/> <br>
 
-
+Again this test shows my ability to quickly understand and solve a problem based on new information, as this test is based on pattern recognition and completion within a short timeframe. This is a useful attribute to hold in such a role, and would make it easier for me to assist other team members in the event of a problem in the system.
 
 
 
