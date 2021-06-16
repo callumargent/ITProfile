@@ -31,7 +31,11 @@ My dream job in the field of IT would be something like <a href="https://www.see
      
 A position like this would involve working closely with a small team in order to maintain and update a system for an educational organisation. This interests me because I feel I work particularly well with small teams and the work required to be a system administrator is something I believe I could do. The skills required for this position would be a strong understanding of the implemented system in the event of a failure, and the ability to manage a team effectively to achieve goals in short timespans. I would have to have completed my IT degree and have worked in the industry of systems management for a couple of years before I would feel comfortable taking on a management role for a team like this. I currently have little relevant experience, the closest being setting up a small FTP server in my bedroom and managing the file systems on my personal devices. In order to obtain the skills I require, I would complete my degree, and spend 2-3 years in team positions in educational organisations and non-profits, such that I gain a decent amount of experience in the field and make sure that it is actually what I would like to pursue.
 
-
+## Personality
+Below are the results of my Myers-Briggs Type Indicator test: <br>
+<img src="https://i.ibb.co/Sv2hP1w/personality.png"
+     alt="MBTItest"
+     style="float: left; margin-right: 10px; width: 100%; border-radius: 5%"/> <br>
 
 
 
