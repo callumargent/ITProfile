@@ -1,6 +1,8 @@
 # Callum Argent
 [https://i.ibb.co/5njtNtn/callumargent.jpg[alt=callum]]
+
 S3912773
+
 S3912773@student.rmit.edu.au
 
 You can use the [editor on GitHub](https://github.com/callumargent/ITProfile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
