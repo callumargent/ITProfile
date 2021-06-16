@@ -7,7 +7,7 @@ S3912773
 
 S3912773@student.rmit.edu.au
 
-I'm currently in my first year of tertiary study at RMIT. I enjoy rock climbing and story-driven computer games.
+I'm currently in my first year of tertiary study at RMIT. I enjoy rock climbing and story-driven computer games, and I'm interested to see how the world of IT progresses in my lifetime.
 <br>
 <br>
 <br>
