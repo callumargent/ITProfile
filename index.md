@@ -34,14 +34,16 @@ A position like this would involve working closely with a small team in order to
 ## Personality
 Below are the results of my Myers-Briggs Type Indicator test from <a href="http://www.16personalities.com">16personalities</a>: <br>
 <img src="https://i.ibb.co/Sv2hP1w/personality.png"
-     alt="MBTItest"
+     alt="MBTI Test"
      style="float: left; margin-right: 10px; width: 100%; border-radius: 5%"/> <br>
 And here are my results from a learning style test from <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Education Planner</a>: <br>
 <img src="https://i.ibb.co/3Sg4DQc/learning-style.png"
-     alt="MBTItest"
+     alt="Learning Style Test"
      style="float: left; margin-right: 10px; width: 100%; border-radius: 5%"/> <br>
-
-
+Finally, the results of a psycometric test from <a href="https://www.psychometricinstitute.com.au/free_psychometric_test.html">Institute of Psychometric Coaching</a>:<br>
+<img src="https://i.ibb.co/GRNZQbY/psychometric-test.png"
+     alt="Psychometric Test"
+     style="float: left; margin-right: 10px; width: 100%; border-radius: 5%"/> <br>
 
 
 
