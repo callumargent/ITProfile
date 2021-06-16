@@ -2,12 +2,17 @@
 <img src="https://i.ibb.co/5njtNtn/callumargent.jpg"
      alt="callumargent"
      style="float: left; margin-right: 10px; width: 50%; border-radius: 5%"/>
-<br>
+
 S3912773
 
 S3912773@student.rmit.edu.au
 
 I'm currently in my first year of tertiary study at RMIT. I enjoy rock climbing and story-driven computer games.
+<br>
+## Interest in IT
+I have always has a fascination with new technology for as long as I can remember. The part of it that interests me most is that way that simple inputs can be taken, and processed into complex outputs, such as a relatively simply evolutionary AI script learning to play a game as fast as possible. One such example of this would be MarI/O, which begins with random input sequences and through training and many iterations is able to complete the entirety of Super Mario World. Another more recent example that I found interesting was when a fish beat Pokemon Sapphire after around 3200 hours, based on it's screen position on a camera. Examples such as these were what initiated my interest in machine learning, which today is being used in many ways to further society in things such as medicine, entertainment, and gaming, which one day I hope to contribute to.
+
+
 
 You can use the [editor on GitHub](https://github.com/callumargent/ITProfile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
