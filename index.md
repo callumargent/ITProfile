@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/5njtNtn/callumargent.jpg"
      alt="callumargent"
      style="float: left; margin-right: 10px; width: 50%" />
-     
+<br>
 S3912773
 
 S3912773@student.rmit.edu.au
