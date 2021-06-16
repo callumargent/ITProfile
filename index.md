@@ -1,4 +1,5 @@
 # Callum Argent
+[https://i.ibb.co/5njtNtn/callumargent.jpg[alt=callum]]
 S3912773
 S3912773@student.rmit.edu.au
 
