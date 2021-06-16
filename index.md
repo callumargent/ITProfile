@@ -24,8 +24,10 @@ I chose to study online at RMIT because it allowed me the most flexibility with 
 In my time at RMIT I hope to learn about the future of IT in terms of where we are headed, and what new technologies will come up and hopefully benefit us as a society. I am looking forward to developing my skills and opening up new career gateways, which in turn would lead to further connections and experience in the field. With technology changing and improving so rapidly, I feel as though I may be missing out on important developments, and so I hope that this course will inspire me to keep on top of this.
 
 ## Ideal Job
-My dream job in the field of IT would be something like this:
-https://www.seek.com.au/job/52548355?type=standout#searchRequestToken=11240c32-6f22-4950-92e0-93884b0d03f2
+My dream job in the field of IT would be something like <a href="https://www.seek.com.au/job/52548355?type=standout#searchRequestToken=11240c32-6f22-4950-92e0-93884b0d03f2">this</a> <br>
+<img src="https://i.ibb.co/4fN3BPx/joboffer.png"
+     alt="job advertisement"
+     style="float: left; margin-right: 10px; width: 50%; border-radius: 5%">
 
 
 You can use the [editor on GitHub](https://github.com/callumargent/ITProfile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
