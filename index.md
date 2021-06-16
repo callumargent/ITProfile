@@ -36,6 +36,9 @@ Below are the results of my Myers-Briggs Type Indicator test from <a href="http:
 <img src="https://i.ibb.co/Sv2hP1w/personality.png"
      alt="MBTI Test"
      style="float: left; margin-right: 10px; width: 100%; border-radius: 5%"/> <br>
+     
+This shows that I have the ability to analyse and solve problems, and that I would have to be in a team of like minded people if I were to be managing them. It shows me personally that while an interpersonal connection may be initially difficult to establish, once that barrier is broken I can work well with them. This would make it difficult to build a team due to the selectivity of my personality, but maintaining a team after that should be like second nature.
+
 And here are my results from a learning style test from <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Education Planner</a>: <br>
 <img src="https://i.ibb.co/3Sg4DQc/learning-style.png"
      alt="Learning Style Test"
