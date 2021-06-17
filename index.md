@@ -54,15 +54,21 @@ Finally, the results of a psychometric test from <a href="https://www.psychometr
 Again this test shows my ability to quickly understand and solve a problem based on new information, as this test is based on pattern recognition and completion within a short timeframe. This is a useful attribute to hold in such a role, and would make it easier for me to assist other team members in the event of a problem in the system.
 
 ## Project Idea:
+Below is an outline of the project I intend to complete during my studies this year.
 
 ### Overview
+The aim of my project is to ease the process of _ by creating a system using _, which will help to streamline the task by _. I will achieve this within the near future by _, and _.
 
 ### Motivation
+While the process of _ is already relatively simple, there are not many solutions currently available on the market. The simplification of _ with the use of my tool would help _ of people to meet their deadlines faster and in turn reduce the amount of error in the process.
 
 ### Description
 
 ### Tools and Technologies
+The tools I will require to complete this project will include _ for the creation of it, and it will be able to run on home computer systems, and possibly on mobile devices through a web browser to reach a wider audience and subsequently increase the accessibility of the project.
 
 ### Skills Required
+In order to undertake this project, I will have to learn how to use _ and develop the scripting to power the application. This should be fairly easy as there is plenty of existing documentation and help forums based around _.
 
 ### Outcome
+The overall goal of this project is to reduce the time taken and the human error introduced when _. This will solve the issue of _ by _. I hope that this application will positively affect the accessibility and time taken whilst _.
