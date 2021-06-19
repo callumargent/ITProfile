@@ -57,10 +57,10 @@ Again this test shows my ability to quickly understand and solve a problem based
 Below is an outline of the project I intend to complete during my studies this year.
 
 ### Overview
-The aim of my project is to ease the process of _ by creating a system using _, which will help to streamline the task by _. I will achieve this within the near future by _, and _.
+The aim of my project is to ease the process of expanding a user's music library by creating a system to aggregate their playlists. I will achieve this by using web integration from major streaming platforms and a script I develop myself. This will help to streamline the task by analysing the metadata of the music that the user already listens to and comparing it with similar music offered by the streaming platform. The following document will outline the process with which I intend to develop this app, and the challenges and obstacles I anticipate.
 
 ### Motivation
-While the process of _ is already relatively simple, there are not many solutions currently available on the market. The simplification of _ with the use of my tool would help _ of people to meet their deadlines faster and in turn reduce the amount of error in the process.
+While the process of finding new music is already relatively simple, there are not many solutions currently available on the market that promote new artists. With my app I intend on providing users with a service that increases the exposure of new songs in the genres they have shown an interest in. The problem with current solutions is that the music recommended is based on the amount of other listeners that discovered the music organically, which takes a long time, and puts new artists at a disadvantage. When a user actively seeks to expand their music library, I aim to pair them with something similar that they haven't heard before. 
 
 ### Description
 
