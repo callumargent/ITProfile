@@ -65,10 +65,10 @@ While the process of finding new music is already relatively simple, there are n
 ### Description
 
 ### Tools and Technologies
-The tools I will require to complete this project will include _ for the creation of it, and it will be able to run on home computer systems, and possibly on mobile devices through a web browser to reach a wider audience and subsequently increase the accessibility of the project.
+To develop this app, I will need to use html, css, and javascript in order to build the graphical user interface, and provide the script which the music metadata can be fed in to. Using streaming platform integration, I will be able to ascertain a users current musical interests, and also gain information of what new similar music has been released. The app will be developed using Atom, which is a free desktop text editor and compiler. I will also need to use my desktop computer and mobile device to test the app, and ensure its cross-platform capabilities.
 
 ### Skills Required
-In order to undertake this project, I will have to learn how to use _ and develop the scripting to power the application. This should be fairly easy as there is plenty of existing documentation and help forums based around _.
+In order to develop this app, I will need to learn how to integrate a streaming platform and extract music metadata. I'll also have to develop an understanding of the Spotify development API, which will essentially allow me to access all the required data for this project. To keep my files organised, I will additionally need to learn how to use Github in the context of a large project such as this.
 
 ### Outcome
-The overall goal of this project is to reduce the time taken and the human error introduced when _. This will solve the issue of _ by _. I hope that this application will positively affect the accessibility and time taken whilst _.
+The overall goal of this project is to allow a user to easily discover new music that isn't entirely based on what other users are listening to, in turn providing new artists a way to enter the industry. By providing this service, I hope to see more lesser known artists spread in popularity, and create more diversity in the end user's playlist. The current 'solutions' to the problem when it comes to expanding a playlist look primarily at the commonalities between users, whereas my app aims to prioritise new releases.
